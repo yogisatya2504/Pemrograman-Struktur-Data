@@ -1,6 +1,7 @@
 # Pemrograman-Struktur-Data
 
 Biasakan ketik :v
+
 No copas-copas
 
 ## Environment
