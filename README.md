@@ -1,8 +1,8 @@
-#Pemrograman-Struktur-Data
+# Pemrograman-Struktur-Data
 
 Biasakan ketik :v
 
-##Environment
+## Environment
 Os : Linux
 Editor : Visual Studio Code (https://code.visualstudio.com/)
 Compiler : gcc (https://gcc.gnu.org/)
